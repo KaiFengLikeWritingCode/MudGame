@@ -1,0 +1,51 @@
+﻿  Antagonist.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Armor.cpp
+  Character.cpp
+  Consume_items.cpp
+  Entity.cpp
+  Fight.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  FileName.cpp
+  Fish.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Fish.cpp(11,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Fish.cpp(18,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Fish.cpp(25,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Fish.cpp(32,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Fish.cpp(39,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Leader.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\main.cpp(44,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\main.cpp(140,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Map.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Npc.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Npc.cpp(184,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Npc.cpp(184,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Object.cpp
+  Pool.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Quest_Items.cpp
+  Skill.cpp
+  Store.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  System.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\System.cpp(524,16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Task.cpp
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Task.h
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.h(81,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在编译...
+  Weapon.cpp
+x64\Release\Task.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Leader.cpp(338): warning C4715: “Leader::show_equip”: 不是所有的控件路径都返回值
+F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\Npc.cpp(134): warning C4715: “Npc::task_words_talk”: 不是所有的控件路径都返回值
+  All 1313 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  A.Mud_CPP.vcxproj -> F:\A.university code new\c++\000 other game\mud_-cpp-master\mud_-cpp-master\x64\Release\A.Mud_CPP.exe
